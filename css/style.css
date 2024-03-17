@@ -15,3 +15,17 @@
   padding: 0;
   position: relative;
 }
+
+#main-navabr ul li {
+  left: 50%;
+  float: left;
+  display: block;
+}
+
+#sidebar {
+  position: fixed;
+  right: 0%;
+  background-color: red;
+  height: 100%;
+  width: 20%;
+}
