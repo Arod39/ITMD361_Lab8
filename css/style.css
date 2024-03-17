@@ -36,5 +36,16 @@
 }
 
 #sidebar ul {
-    list-style-type: none;
+  list-style-type: none;
+}
+
+#sidebar ul li {
+  display: block;
+  padding: 15px 0;
+}
+
+#sidebar ul li a{
+  color: #fff;
+  text-decoration: none;
+  background-color: #000;
 }
