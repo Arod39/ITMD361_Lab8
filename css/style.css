@@ -14,12 +14,14 @@
   margin: 0;
   padding: 0;
   position: relative;
+  float: left;
+  left: 50%;
 }
 
 #main-navabr ul li {
-  left: 50%;
   float: left;
   display: block;
+  position: relative;
 }
 
 #main-navbar ul li a {
